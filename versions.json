@@ -1,5 +1,3 @@
 {
-    "nv-core": "1.0.0",
-    "nv-illegalgarage":"1.0.0",
-    "nv-garage":"1.0.0"
+    "nv-lib": "1.0.0"
 }
